@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>guideblog</title><link>https://guideblog.github.io/guideblog</link><description>一步步</description><copyright>guideblog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://guideblog.github.io/guideblog</link></image><lastBuildDate>Mon, 24 Mar 2025 11:28:31 +0000</lastBuildDate><managingEditor>guideblog</managingEditor><ttl>60</ttl><webMaster>guideblog</webMaster><item><title>Cloudflare 简单的介绍</title><link>https://guideblog.github.io/guideblog/post/Cloudflare%20-jian-dan-de-jie-shao.html</link><description>Cloudflare
+Cloudflare是大名鼎鼎的全球CDN服务提供商，我第一次使用它的时候那会也才09年初，不过现在它的功能更加丰富了，定位也类似国内的百度云加速和360网站卫士等，提供网站优化和防攻击等业务，但是比起国内这些服务商，它的技术实力还是很强劲的。</description><guid isPermaLink="true">https://guideblog.github.io/guideblog/post/Cloudflare%20-jian-dan-de-jie-shao.html</guid><pubDate>Mon, 24 Mar 2025 11:28:06 +0000</pubDate></item><item><title>GitHub Pages</title><link>https://guideblog.github.io/guideblog/post/GitHub%20Pages.html</link><description>GitHub Pages是GitHub提供的快速搭建项目展示页的服务，但如今越来越多的人已经拿他当Blog使用，也有一些比较靠谱的工具，例如 https://hexo.io/ 等，不过为了吃透所有流程，我还是自己做了一遍所有的实现，目的是使用GitHub的Issues Markdown来写作，然后使用GitHub的API来获取内容，然后用目前常见的各种类库来制作界面，虽然目前无法SEO，但是其实GitHub的Issues本身就已经是SEO了，制作界面只是为了让自己看的赏心悦目，也方便展示给其他人看。</description><guid isPermaLink="true">https://guideblog.github.io/guideblog/post/GitHub%20Pages.html</guid><pubDate>Mon, 24 Mar 2025 11:21:47 +0000</pubDate></item><item><title>Accès à votre compte Cloudflare depuis une nouvelle adresse IP</title><link>https://guideblog.github.io/guideblog/post/Acc%C3%A8s%20%C3%A0%20votre%20compte%20Cloudflare%20depuis%20une%20nouvelle%20adresse%20IP.html</link><description>Bonjour,
+
+Cette adresse e-mail a été utilisée pour accéder à votre tableau de bord Cloudflare depuis une nouvelle adresse IP :
+
+------------------------------------------
+adresse e-mail : luo.ting@outlook.com
+heure : 2025-03-23 14:12:58 UTC
+adresse IP : 2a01:cb08:d67:7500:7bbf:772b:294a:9b70
+navigateur : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+
+![Image](https://github.com/user-attachments/assets/94ce82c2-7f9a-43eb-aea8-311158acef57)。</description><guid isPermaLink="true">https://guideblog.github.io/guideblog/post/Acc%C3%A8s%20%C3%A0%20votre%20compte%20Cloudflare%20depuis%20une%20nouvelle%20adresse%20IP.html</guid><pubDate>Mon, 24 Mar 2025 10:50:53 +0000</pubDate></item></channel></rss>
