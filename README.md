@@ -1,4 +1,4 @@
-# guideblog :link: https://guideblog.github.io/guideblog 
+# guideblog :link: https://guideblog.github.io
 ### :page_facing_up: [3](https://guideblog.github.io/guideblog/tag.html) 
 ### :speech_balloon: 0 
 ### :hibiscus: 1257 
